@@ -1,0 +1,13 @@
+{
+  "name": "ethertube",
+  "version": "0.0.1",
+  "description": "Ethertube is a video sharing application in the browser, it use ethereum as db and ipfs as CDN (and host).",
+  "main": "main.ts",
+  "repository": "https://github.com/Jorropo/ethertube",
+  "author": "Jorropo <jorropo.pgm@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "multihashes": "^0.4.14"
+  }
+}
